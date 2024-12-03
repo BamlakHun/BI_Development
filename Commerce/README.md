@@ -75,7 +75,7 @@ Geographic Insights: Heatmaps for geographic revenue trends.
 Interactive Filters: Custom filters to explore data by time period, product, or region.
 Custom Branding: Dashboard styled according to company branding.
 
-![Revenue](https://github.com/user-attachments/assets/93690702-50d0-4d77-a84c-92ab3af63781)
 
 
+![Revenue](https://github.com/user-attachments/assets/299ad94a-6318-4274-b85d-7b5a3dac39ad)
 
