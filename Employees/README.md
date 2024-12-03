@@ -31,7 +31,9 @@ Report/Dashboard:<br/>
 - Employee satisfaction levels.<br/>
 - Identification of departments with the highest churn rates.<br/>
 
-![Churn](https://github.com/user-attachments/assets/af357e2c-fc7a-4adb-91b5-43c1098471c9)
+
+![Churn](https://github.com/user-attachments/assets/be82b438-9aba-4197-a602-6799380ade67)
+
 
 
 
